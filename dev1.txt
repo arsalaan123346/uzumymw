@@ -1,1 +1,3 @@
 greetings to developer 2
+change done by dev 1
+chnage done but first pulled in dev 1
